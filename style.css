@@ -1,6 +1,18 @@
 .logo {
-  width: 200px;
+  width: 100px;
   float: left;
   margin-right: 20px;
   height: 100px;
+}
+
+h1{
+  color: rgb(143, 7, 7)
+}
+
+h2{
+  color: rgb(206, 35, 35)
+}
+
+html{
+  background-color: rgb(243, 159, 159)
 }

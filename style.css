@@ -1,18 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Poppins:ital,wght@0,300;1,500&display=swap');
+
 .logo {
-  width: 90px;
+  width: 80px;
   float: left;
   margin-right: 20px;
-  height: 100px;
+  height: 80px;
 }
 
 h1{
-  color: rgb(7, 21, 143)
+  color: rgb(7, 21, 143);
+  font-family: "Comfortaa", fantasy;
+  font-weight: 600;
+  font-size: 24pt;
 }
 
 h2{
-  color: rgb(35, 89, 206)
+  color: rgb(35, 89, 206);
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
 }
 
 html{
   background-color: rgb(159, 181, 243)
+}
+.odd{
+  float: left;
+  width: 90px;
+  height: 100px;
+  margin-right: 20px;
+}
+.even{
+  float: right;
+  width: 90px;
+  height: 100px;
+  margin-left: 20px;
+}
+p{
+  text-align: justify;
+  color: rgb(23, 17, 109);
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }

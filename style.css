@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Poppins:ital,wght@0,300;1,500&display=swap');
 
 .logo {
-  width: 80px;
   float: left;
   margin-right: 20px;
   height: 80px;
@@ -26,13 +25,11 @@ html{
 }
 .odd{
   float: left;
-  width: 90px;
   height: 100px;
   margin-right: 20px;
 }
 .even{
   float: right;
-  width: 90px;
   height: 100px;
   margin-left: 20px;
 }
